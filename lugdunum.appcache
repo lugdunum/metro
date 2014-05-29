@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Version 1
+# 537bNHNmyCLSmx5RpSB5W2gLn1g=
 
 CACHE:
 js/leaflet/leaflet.js
@@ -11,3 +11,11 @@ js/leaflet/images/marker-icon-2x.png
 js/leaflet/images/marker-shadow.png
 css/styles.js
 images/lugdunum.png
+index.html
+rocket.png
+
+# catch-all for anything else
+NETWORK:
+*
+http://*
+https://*
