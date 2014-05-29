@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Version 1
+
+CACHE:
+js/leaflet/leaflet.js
+js/leaflet/leaflet.css
+js/leaflet/images/layers.png
+js/leaflet/images/layers-2x.png
+js/leaflet/images/marker-icon.png
+js/leaflet/images/marker-icon-2x.png
+js/leaflet/images/marker-shadow.png
+css/styles.js
+images/lugdunum.png
